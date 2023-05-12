@@ -12,18 +12,18 @@ This technique has 4 steps:
  - Write the topic name on top of the paper.
  
  **Step 2:**
- -  Explain your topic as teachers do on the blackboard.
- -  Use simple language to explain.
+ - Explain your topic as teachers do on the blackboard.
+ - Use simple language to explain.
  - Try to generalize things with practical examples.
  
   **Step 3:**
  - Figure out where you missing your command over the topic.
- -  Go back and revise the resources.
+ - Go back and revise the resources.
  
    **Step 4:**
  - Explain again and be solid in all topics.
  - Keep an eye on where you're using complicated terms.
- - Try to brake those again into simple things and repeat them till you are perfect.
+ - Brake them into simple things and repeat them till you are perfect.
  
  #### 2. What are the different ways to implement this technique in your learning process?
 
@@ -60,7 +60,7 @@ If you are procrastinating tasks then try the Pomodoro technique in your task.
  
 #### 4. What are some of the steps that you can take to improve your learning process?
 - Practicing the techniques daily.
-- switching mode to diffused when getting stuck.
+- Switching mode to diffused when getting stuck.
 - Trying Pomodoro when working for long hours.
 - Doing again and again until the solution plays like a song in Brain.
 
