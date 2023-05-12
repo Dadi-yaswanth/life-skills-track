@@ -49,7 +49,7 @@ Then return to focused mode and incorporate any new ideas you generated during d
 
 #### What is pomodor technique?
 
-When there is a new or big task to complete, many people will postpone it which is called procrastination. This procrastination will cause serious problems in our life unknowingly. 
+When there is a new or big task to complete, many people will postpone it which is called procrastination. This procrastination will cause serious problems in our life unknowingly.
 If you are procrastinating tasks then try the Pomodoro technique in your task.
 
  - Grab a timer and set it for 25 minutes.
