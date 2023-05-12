@@ -43,7 +43,7 @@ Turn focus and attention to the task.
 #### Diffuse Mode :
 Relax mode of the brain where random thoughts come and go.
 
- When learning or problem-solving, begin with focused mode. If you get stuck, switch to diffuse mode and let your mind work in the background.
+When learning or problem-solving, begin with focused mode. If you get stuck, switch to diffuse mode and let your mind work in the background.
 Then return to focused mode and incorporate any new ideas you generated during diffuse mode into the task.
 
 
@@ -69,8 +69,8 @@ If you are procrastinating tasks then try the Pomodoro technique in your task.
 These are steps to learn the skill faster :
 
 **Step 1: Deconstruct the logic**
- - Decide what you want to do with that skill after learning.
- - A skill means a bundle of capable things. So brake them into small pieces.
+ - Decide what you want to do with skill after learning.
+ - Skill means a bundle of capable things. So brake them into small pieces.
  - From small pieces learn which you feel is important for you.
 
 **Step 2: Learn enough to self-correct**
@@ -88,7 +88,7 @@ These are steps to learn the skill faster :
 
 **6. What are some of the steps that you can while approaching a new topic?**
 
- - Deconstruct the topic before starting.
+- Deconstruct the topic before starting.
 - Practice, self-correct, and self-edit.
 - Be consistent, and avoid distractions.
 - Avoiding initial barriers and frustrations.
