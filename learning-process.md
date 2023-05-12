@@ -32,7 +32,7 @@ This technique has 4 steps:
  - Explain to friends using simple analogies.
  - Simplify further or relate concepts with general examples.
 
-# Learning How to Learn, TED talk by Barbara Oakley
+## Learning How to Learn, TED talk by Barbara Oakley
 
 #### 3. Paraphrase the video in detail in your own words.
 The video introduces the concept of **"learning how to learn,"** which is a powerful tool for improving one's ability to learn effectively. Our brain is complex. We can simplify fundamentally into two modes.
@@ -64,7 +64,7 @@ If you are procrastinating tasks then try the Pomodoro technique in your task.
 - Trying Pomodoro when working for long hours.
 - Doing again and again until the solution plays like a song in Brain.
 
-# Learn Anything in 20 hours
+## Learn Anything in 20 hours
 #### 5. Your key takeaways from the video? Paraphrase your understanding.
 These are steps to learn the skill faster :
 
