@@ -20,7 +20,7 @@ This technique has 4 steps:
  - Figure out where you missing your command over the topic.
  - Go back and revise the resources.
  
-   **Step 4:**
+ **Step 4:**
  - Explain again and be solid in all topics.
  - Keep an eye on where you're using complicated terms.
  - Brake them into simple things and repeat them till you are perfect.
